@@ -2,6 +2,14 @@
 
 Motive edici sözler ile saat, süreölçer, kronometre ve ayarlanabilir pomodoroyu iki sekmede birleştiren siyah-lacivert uygulama.
 
+## Ekran görüntüleri
+
+<p>
+  <img src="screenshots/sozler.png" width="260" alt="Sözler sekmesi">
+  <img src="screenshots/zaman.png" width="260" alt="Zaman sekmesi">
+</p>
+
+
 ## İçerik
 - `index.html` — uygulamanın kendisi (tek dosya; tarayıcıda açınca çalışır)
 - `fonts/` — uygulamanın kullandığı yazı tipleri (Outfit, Lora — SIL Open Font License)
