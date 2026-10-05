@@ -2,6 +2,8 @@
 
 Motive edici sözler ile saat, süreölçer, kronometre ve ayarlanabilir pomodoroyu iki sekmede birleştiren siyah-lacivert uygulama.
 
+<p align="center"><img src="quotes_clock.jpeg" width="96" alt="Quotes Clock simgesi"></p>
+
 
 ## Ekran görüntüleri
 
