@@ -3,6 +3,13 @@
 Motive edici sözler ile saat, süreölçer, kronometre ve ayarlanabilir pomodoroyu iki sekmede birleştiren siyah-lacivert uygulama.
 
 
+## Ekran görüntüleri
+
+<p>
+  <img src="screenshots/sozler.jpg.jpeg" width="260" alt="Sözler sekmesi">
+  <img src="screenshots/zaman.jpg.jpeg" width="260" alt="Zaman sekmesi">
+</p>
+
 
 ## İçerik
 - `index.html` — uygulamanın kendisi (tek dosya; tarayıcıda açınca çalışır)
